@@ -15,4 +15,17 @@ biconditional                             双条件
 tautology                                 永真式
 Logical Equivalences                      逻辑等价
 Propositional Equivalences                命题等价
-Satisfiable                               可满足的  
+Satisfiable                               可满足的
+2019.9.21周六
+predicate                                 谓词
+quantifier                                量词
+domain                                    伦域
+nested quantifiers                        嵌套量词
+inference                                 推理
+argument                                  论证
+premise                                   前提
+valid                                     有效性
+fallacy                                   谬误
+conjecture                                猜想
+proof by contraposition                   用逆否命题证明
+proof by contradiction                    归谬证明
