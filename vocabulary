@@ -16,6 +16,7 @@ tautology                                 永真式
 Logical Equivalences                      逻辑等价
 Propositional Equivalences                命题等价
 Satisfiable                               可满足的
+
 2019.9.21周六
 predicate                                 谓词
 quantifier                                量词
@@ -31,3 +32,13 @@ proof by contraposition                   用逆否命题证明
 proof by contradiction                    归谬证明
 odd                                       奇数
 even                                      偶数
+
+2019.10.19周六
+dual                                      对偶
+Duality principle                         对偶性原理
+sum of products                           积之和
+functionally complete                     函数完备
+minimization of a Boolean function        布尔函数最小化
+Karnaugh maps                             卡诺图
+Quine–MCCluskey Method                    奎因-莫克拉斯基方法
+Pigeonhole Principle                      鸽巢原理
