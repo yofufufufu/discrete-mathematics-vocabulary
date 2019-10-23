@@ -8,3 +8,6 @@ infrastructure               基础设施
 coordinate                   配合
 framework                    框架，架构
 architecture                 体系结构
+consistency                  一致性
+availability                可用性
+partition tolerance         分区容忍性
