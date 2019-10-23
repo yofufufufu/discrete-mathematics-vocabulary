@@ -11,3 +11,6 @@ architecture                 体系结构
 consistency                  一致性
 availability                可用性
 partition tolerance         分区容忍性
+interprocess communication  进程间通信
+unicast                     单播
+multicast                   组播
