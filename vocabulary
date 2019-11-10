@@ -59,10 +59,13 @@ codomain                                  陪域
 range                                     值域
 onto function/surjection                  映上函数/满射
 one-to-one function/injection             一对一函数/内射
-one-to-one correspondence/bijection       一一对应/双射  
+one-to-one correspondence/bijection       一一对应/双射
 inverse                                   逆
 sequence                                  序列
 recurrence relation                       递推关系
 Compositions of Functions                 复合函数
 permutation                               排列
 combination                               组合
+Pascal's triangle                         帕斯卡三角形
+Binomial Coefficients                     二项式系数
+initial condition                         初始条件  
