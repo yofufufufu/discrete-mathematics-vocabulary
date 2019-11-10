@@ -42,3 +42,27 @@ minimization of a Boolean function        布尔函数最小化
 Karnaugh maps                             卡诺图
 Quine–MCCluskey Method                    奎因-莫克拉斯基方法
 Pigeonhole Principle                      鸽巢原理
+
+2019.11.10周日
+inclusion-exclusion rule                  容斥原理
+set                                       集合
+cardinality of sets                       集合的基数
+subsets                                   子集
+power set                                 幂集
+cartesian products                        笛卡尔积
+union                                     并
+intersection                              交
+difference                                差
+complement                                补
+domain                                    定义域
+codomain                                  陪域
+range                                     值域
+onto function/surjection                  映上函数/满射
+one-to-one function/injection             一对一函数/内射
+one-to-one correspondence/bijection       一一对应/双射  
+inverse                                   逆
+sequence                                  序列
+recurrence relation                       递推关系
+Compositions of Functions                 复合函数
+permutation                               排列
+combination                               组合
