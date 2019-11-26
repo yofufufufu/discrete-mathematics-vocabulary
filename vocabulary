@@ -68,4 +68,36 @@ permutation                               排列
 combination                               组合
 Pascal's triangle                         帕斯卡三角形
 Binomial Coefficients                     二项式系数
-initial condition                         初始条件  
+initial condition                         初始条件
+
+2019.11.26
+relation on A                             定义在A上的关系
+property                                  性质
+reflexive                                 自反的
+symmetric                                 对称的
+antisymmetric                             反对称的
+transitive                                传递的
+equivalence relation                      等价关系
+equivalence class                         等价类
+partition of a set                        集合划分
+partial ordering                          偏序
+poset                                     偏序集
+comparable                                可比的
+matrice                                   矩阵
+composite of relations                    关系的组合
+directed graph                            有向图
+closure                                   闭包
+connectivity relation                     连通性关系
+Warshall’s algorithm                      沃舍尔算法
+total ordering                            全序
+maximal element                           极大元
+minimal element                           极小元
+greatest element                          最大元
+least element                             最小元
+upper bound of a set                      偏序集上界
+lower bound of a set                      偏序集下界
+least upper bound of a set                最小上界
+greatest lower bound of a set             最大下界
+lattice                                   格
+topological sort                          拓扑排序
+                   
