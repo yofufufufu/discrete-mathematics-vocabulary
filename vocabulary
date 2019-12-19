@@ -66,6 +66,7 @@ recurrence relation                       递推关系
 Compositions of Functions                 复合函数
 permutation                               排列
 combination                               组合
+combinatorial proof                       组合证明
 Pascal's triangle                         帕斯卡三角形
 Binomial Coefficients                     二项式系数
 initial condition                         初始条件
@@ -100,4 +101,40 @@ least upper bound of a set                最小上界
 greatest lower bound of a set             最大下界
 lattice                                   格
 topological sort                          拓扑排序
-                   
+
+2019.12.19
+edge                                      边
+vertex(vertices)                          顶点
+multiple edges                            多重边
+loop                                      环
+undirected graph                          无向图
+simple graph                              简单图
+multigraph                                多重图
+pseudograph                               伪图
+directed graph                            有向图
+directed multigraph                       有向多重图
+simple directed graph                     简单有向图
+adjacent                                  相邻
+incident                                  关联
+complete graph                            完全图
+bipartite graph                           二分图
+complete matching                         完全匹配
+maximum matching                          最大匹配
+isolated vertex                           孤立点
+pendant vertex                            悬挂点
+adjacency matrix                          邻接矩阵
+incidence matrix                          关联矩阵
+isomorphic                                同构
+path                                      通路
+circuit                                   回路
+connected graph                           连通图
+cut vertex                                割点
+cut edge                                  割边
+connected component                       连通分支
+strongly connected component              强连通分支
+vertex connectivity                       点连通度
+edge connectivity                         边连通度
+Euler                                     欧拉
+Hamilton                                  哈密顿
+planar graph                              平面图
+homeomorphic                              同胚
