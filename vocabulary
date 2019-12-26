@@ -138,3 +138,24 @@ Euler                                     欧拉
 Hamilton                                  哈密顿
 planar graph                              平面图
 homeomorphic                              同胚
+
+2019.12.26
+parent                                    父母
+child                                     孩子
+sibling                                   兄弟
+ancestor                                  祖先
+descendent                                后代
+internal vertex                           内点
+leaf                                      树叶
+balanced tree                             平衡树
+tree  traversal                           树的遍历
+preorder                                  前序
+inorder                                   中序
+postorder                                 后序
+infix notation                            中缀记法
+prefix notation                           前缀记法
+postfix notation                          后缀记法
+spanning tree                             生成树
+minimum spanning tree                     最小生成树
+depth-first search                        深度优先搜索
+breadth-first search                      广度优先搜索
