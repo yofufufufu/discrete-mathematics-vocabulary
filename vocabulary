@@ -1,0 +1,161 @@
+2019.9.8周日
+proposition logic                         命题逻辑
+proposition variable                      命题变元
+negation of P                             P的否定
+compound propos                           复合命题
+truth table                               真值表
+disjunction                               析取
+conjunction                               合取
+exclusive or                              异或
+contrapositive of                         逆否命题
+converse of                               逆命题
+inverse of                                反命题
+biconditional                             双条件
+...and conversely                         反之亦然
+tautology                                 永真式
+Logical Equivalences                      逻辑等价
+Propositional Equivalences                命题等价
+Satisfiable                               可满足的
+
+2019.9.21周六
+predicate                                 谓词
+quantifier                                量词
+domain                                    论域
+nested quantifiers                        嵌套量词
+inference                                 推理
+argument                                  论证
+premise                                   前提
+valid                                     有效性
+fallacy                                   谬误
+conjecture                                猜想
+proof by contraposition                   用逆否命题证明
+proof by contradiction                    归谬证明
+odd                                       奇数
+even                                      偶数
+
+2019.10.19周六
+dual                                      对偶
+Duality principle                         对偶性原理
+sum of products                           积之和
+functionally complete                     函数完备
+minimization of a Boolean function        布尔函数最小化
+Karnaugh maps                             卡诺图
+Quine–MCCluskey Method                    奎因-莫克拉斯基方法
+Pigeonhole Principle                      鸽巢原理
+
+2019.11.10周日
+inclusion-exclusion rule                  容斥原理
+set                                       集合
+cardinality of sets                       集合的基数
+subsets                                   子集
+power set                                 幂集
+cartesian products                        笛卡尔积
+union                                     并
+intersection                              交
+difference                                差
+complement                                补
+domain                                    定义域
+codomain                                  陪域
+range                                     值域
+onto function/surjection                  映上函数/满射
+one-to-one function/injection             一对一函数/内射
+one-to-one correspondence/bijection       一一对应/双射
+inverse                                   逆
+sequence                                  序列
+recurrence relation                       递推关系
+Compositions of Functions                 复合函数
+permutation                               排列
+combination                               组合
+combinatorial proof                       组合证明
+Pascal's triangle                         帕斯卡三角形
+Binomial Coefficients                     二项式系数
+initial condition                         初始条件
+
+2019.11.26
+relation on A                             定义在A上的关系
+property                                  性质
+reflexive                                 自反的
+symmetric                                 对称的
+antisymmetric                             反对称的
+transitive                                传递的
+equivalence relation                      等价关系
+equivalence class                         等价类
+partition of a set                        集合划分
+partial ordering                          偏序
+poset                                     偏序集
+comparable                                可比的
+matrice                                   矩阵
+composite of relations                    关系的组合
+directed graph                            有向图
+closure                                   闭包
+connectivity relation                     连通性关系
+Warshall’s algorithm                      沃舍尔算法
+total ordering                            全序
+maximal element                           极大元
+minimal element                           极小元
+greatest element                          最大元
+least element                             最小元
+upper bound of a set                      偏序集上界
+lower bound of a set                      偏序集下界
+least upper bound of a set                最小上界
+greatest lower bound of a set             最大下界
+lattice                                   格
+topological sort                          拓扑排序
+
+2019.12.19
+edge                                      边
+vertex(vertices)                          顶点
+multiple edges                            多重边
+loop                                      环
+undirected graph                          无向图
+simple graph                              简单图
+multigraph                                多重图
+pseudograph                               伪图
+directed graph                            有向图
+directed multigraph                       有向多重图
+simple directed graph                     简单有向图
+adjacent                                  相邻
+incident                                  关联
+complete graph                            完全图
+bipartite graph                           二分图
+complete matching                         完全匹配
+maximum matching                          最大匹配
+isolated vertex                           孤立点
+pendant vertex                            悬挂点
+adjacency matrix                          邻接矩阵
+incidence matrix                          关联矩阵
+isomorphic                                同构
+path                                      通路
+circuit                                   回路
+connected graph                           连通图
+cut vertex                                割点
+cut edge                                  割边
+connected component                       连通分支
+strongly connected component              强连通分支
+vertex connectivity                       点连通度
+edge connectivity                         边连通度
+Euler                                     欧拉
+Hamilton                                  哈密顿
+planar graph                              平面图
+homeomorphic                              同胚
+
+2019.12.26
+parent                                    父母
+child                                     孩子
+sibling                                   兄弟
+ancestor                                  祖先
+descendent                                后代
+internal vertex                           内点
+leaf                                      树叶
+balanced tree                             平衡树
+tree  traversal                           树的遍历
+preorder                                  前序
+inorder                                   中序
+postorder                                 后序
+infix notation                            中缀记法
+prefix notation                           前缀记法
+postfix notation                          后缀记法
+spanning tree                             生成树
+minimum spanning tree                     最小生成树
+depth-first search                        深度优先搜索
+breadth-first search                      广度优先搜索
